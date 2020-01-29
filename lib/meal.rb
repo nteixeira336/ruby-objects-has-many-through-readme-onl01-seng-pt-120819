@@ -7,3 +7,5 @@ def initialize (waiter, customer, total, tip)
   @total=total
   @tip=tip 
 end
+
+end 
